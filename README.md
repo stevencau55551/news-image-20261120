@@ -1,3 +1,7 @@
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/stevencau55551/news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/stevencau55551/news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+
 # news-image-20261120 — The World Today: Friday, 20 November 2026
 
 A newspaper front page drawn entirely by `main.py` (Python 3.13, standard
@@ -26,4 +30,4 @@ The program draws the 1024x1024 PNG itself (zlib PNG encoder + a hand-made
 files. Verified: sha256 `c507f398103737c266c8e2ef880cdeb8b84132eee4491b87fa389df5238a532d`,
 41,077 bytes.
 
-Entry for make.fun competition `news-image-20261120`, account @hulukahandap.
+Entry for [make.fun competition `news-image-20261120`](https://make.fun/bounty/news-image-20261120), account @hulukahandap.
